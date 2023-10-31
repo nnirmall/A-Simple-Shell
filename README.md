@@ -1,7 +1,6 @@
 # A-Simple-Shell
 
 ##  Description
-Description
 A shell is a program that allows a user to use services provided by the operating
 system. It is a command line interface that takes input commands from the user and
 provides the output to the user after it executes the input commands.
